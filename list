@@ -21,6 +21,7 @@ made by xurel
 ]]--
 --// METHOD OF WHITELIST: [userid] = true (SET TO FALSE IF USER DOES NOT WANT THEIR TAG TO BE SHOWN)
 local SolarList = {
+
 	Premium = {
 	--// PREMIUM WHITELIST
 	[3989824437] = true,
@@ -71,6 +72,7 @@ local SolarList = {
 	[387218264] = true,
 	[4176798663] = true,
 	},
+
 	Immunity = {
 	--// IMMUNITY DOES NOT HAVE A TAG (THATS WHY ITS JUST AN ARRAY)
  	4528438526,
@@ -82,6 +84,7 @@ local SolarList = {
         4851214436,
 	4854012693
 	},
+
 	Booster = {
 	--// FOR SERVER BOOSTERS
         [2624863798] = true,
@@ -93,6 +96,7 @@ local SolarList = {
         [4876837381] = true,
 	[2239776711] = true
 	},
+
 	Administrator = {
 	--// DO NOT EDIT THIS WITHOUT PERMISSION.
         [209670259] = false,
