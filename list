@@ -22,8 +22,8 @@ made by xurel
 --// METHOD OF WHITELIST: [userid] = true (SET TO FALSE IF USER DOES NOT WANT THEIR TAG TO BE SHOWN)
 local SolarList = {
 	Premium = {
-		--// PREMIUM WHITELIST
-		[3989824437] = true,
+	--// PREMIUM WHITELIST
+	[3989824437] = true,
         [4006433577] = true,
         [859041651] = true,
         [2580980319] = true,
@@ -64,26 +64,26 @@ local SolarList = {
         [4392101238] = true,
         [4892789440] = true,
         [4916339822] = true,
-		[4691174008] = true,
-		[15417396] = true,
-		[795405535] = true,
-		[4527759145] = true, --// 1w sub current date is 8/12/2023
-		[387218264] = true,
-		[4176798663] = true,
+	[4691174008] = true,
+	[15417396] = true,
+	[795405535] = true,
+	[4527759145] = true, --// 1w sub current date is 8/12/2023
+	[387218264] = true,
+	[4176798663] = true,
 	},
 	Immunity = {
-		--// IMMUNITY DOES NOT HAVE A TAG (THATS WHY ITS JUST AN ARRAY)
- 		4528438526,
+	--// IMMUNITY DOES NOT HAVE A TAG (THATS WHY ITS JUST AN ARRAY)
+ 	4528438526,
         3885813984,
         2666019029,
         1034562190,
         4392101238,
         1967441305,
         4851214436,
-		4854012693
+	4854012693
 	},
 	Booster = {
-		--// FOR SERVER BOOSTERS
+	--// FOR SERVER BOOSTERS
         [2624863798] = true,
         [3304221951] = true,
         [4883434940] = true,
@@ -91,10 +91,10 @@ local SolarList = {
         [1491473510] = true,
         [341798640] = true,
         [4876837381] = true,
-		[2239776711] = true
+	[2239776711] = true
 	},
 	Administrator = {
-		--// DO NOT EDIT THIS WITHOUT PERMISSION.
+	--// DO NOT EDIT THIS WITHOUT PERMISSION.
         [209670259] = false,
         [2450635720] = true,
         [759881255] = true,
