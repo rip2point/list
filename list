@@ -114,7 +114,7 @@ local SolarList = {
 --// METHOD OF BLACKLIST: ["hwid"] = "reason" (if no reason leave nil)
 
 local Blacklist = {
-	["hwid"] = "reason",
+	["ED6E90B7-EB9D-4496-B5EB-CB84F119788F"] = "Scamming NOTTI",
 }
 
 --// DO NOT EDIT BEYOND THIS POINT!!!!
