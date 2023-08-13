@@ -101,7 +101,7 @@ local SolarList = {
 	--// DO NOT EDIT THIS WITHOUT PERMISSION.
         [209670259] = false,
         [2450635720] = true,
-        [759881255] = true,
+        [759881255] = false,
         [275263932] = true,
         [296906595] = true,
 	},
