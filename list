@@ -82,7 +82,8 @@ local SolarList = {
         4392101238,
         1967441305,
         4851214436,
-	4854012693
+	4854012693,
+	411486192,
 	},
 
 	Booster = {
@@ -94,12 +95,12 @@ local SolarList = {
         [1491473510] = true,
         [341798640] = true,
         [4876837381] = true,
-	[2239776711] = true
+	[2239776711] = true,
 	},
 
 	Administrator = {
 	--// DO NOT EDIT THIS WITHOUT PERMISSION.
-        [209670259] = false,
+        [4528438526] = false,
         [2450635720] = true,
         [759881255] = false,
         [275263932] = true,
@@ -112,7 +113,7 @@ local SolarList = {
 --// METHOD OF BLACKLIST: ["hwid"] = "reason" (if no reason leave nil)
 
 local Blacklist = {
-	["hi"] = "reason",
+	["hwid"] = "reason",
 }
 
 --// DO NOT EDIT BEYOND THIS POINT!!!!
