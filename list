@@ -65,7 +65,6 @@ local SolarList = {
         [4392101238] = true,
         [4892789440] = true,
         [4916339822] = true,
-	[4691174008] = false,
 	[15417396] = true,
 	[795405535] = true,
 	[4527759145] = true, --// 1w sub current date is 8/12/2023
@@ -107,7 +106,7 @@ local SolarList = {
         [759881255] = false,
         [275263932] = true,
         [296906595] = true,
-        [4691174008] = true,  --/Using for a video ill take it off straight after.
+        [4691174008] = true,  
 	},
 }
 
