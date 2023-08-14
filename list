@@ -72,7 +72,6 @@ local SolarList = {
 	[4176798663] = true,
         [4857726149] = true,
         [4928918578] = true,
-        [4691174008] = false,
         },
 
 	Immunity = {
@@ -107,6 +106,7 @@ local SolarList = {
         [759881255] = false,
         [275263932] = true,
         [296906595] = true,
+        [4691174008] = false,   --//For youtube video
         },
 }
 
