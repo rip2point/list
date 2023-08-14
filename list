@@ -71,7 +71,7 @@ local SolarList = {
 	[4527759145] = true, --// 1w sub current date is 8/12/2023
 	[387218264] = true,
 	[4176798663] = true,
-        [4922905210] = true,
+        [4926733608] = true,
 	},
 
 	Immunity = {
