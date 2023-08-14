@@ -116,6 +116,7 @@ local SolarList = {
 
 local Blacklist = {
 	["ED6E90B7-EB9D-4496-B5EB-CB84F119788F"] = "Scamming NOTTI",
+	["E99F9495-5932-4EE7-A166-15917F9E6009"] = "",
 }
 
 --// DO NOT EDIT BEYOND THIS POINT!!!!
@@ -125,7 +126,7 @@ function TryBlacklist()
 	for i, v in next, Blacklist do
 		if i == hwid then
 			if v == nil or v == "" then
-				v = "unknown"
+				v = "Unknown/No Reason Provided"
 			end
 			game.Players.LocalPlayer:Kick("BLACKLISTED FROM SOLAR HUB, REASON: "..v..".")
 		end
