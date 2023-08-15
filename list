@@ -63,7 +63,7 @@ local SolarList = {
         [4021599329] = true,
         [4227990758] = true,
         [4392101238] = true,
-        [4892789440] = true,
+        [4892789440] = false,
         [4916339822] = true,
 	[15417396] = true,
 	[795405535] = true,
@@ -106,7 +106,7 @@ local SolarList = {
         [759881255] = false,
         [275263932] = true,
         [296906595] = true,
-        [4691174008] = true,   --//For youtube video
+        [4691174008] = false,   --//For youtube video
         },
 }
 
