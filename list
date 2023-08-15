@@ -117,6 +117,7 @@ local SolarList = {
 local Blacklist = {
 	["ED6E90B7-EB9D-4496-B5EB-CB84F119788F"] = "Scamming NOTTI",
 	["E99F9495-5932-4EE7-A166-15917F9E6009"] = "",
+	["32cc03ad-0372-432e-b26a-b3a30fdc11f0"] = "tryna scam me",
 }
 
 --// DO NOT EDIT BEYOND THIS POINT!!!!
