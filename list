@@ -85,6 +85,7 @@ local SolarList = {
         4851214436,
 	4854012693,
 	411486192,
+        169459573,
 	},
 
 	Booster = {
@@ -106,7 +107,7 @@ local SolarList = {
         [759881255] = false,
         [275263932] = true,
         [296906595] = true,
-        [4691174008] = false,   --//For youtube video
+        [4691174008] = true,   --//For youtube video
         [4932424349] = true,  --//Just protecting a streamer rn and this my alt
         },
 }
