@@ -108,8 +108,6 @@ local SolarList = {
         [759881255] = false,
         [275263932] = true,
         [296906595] = true,
-        [4691174008] = true,   --//For youtube video
-        [4932424349] = true,  --//Just protecting a streamer rn and this my alt
         },
 }
 
