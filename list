@@ -121,6 +121,9 @@ local SolarList = {
 
 local Blacklist = {
 	["ED6E90B7-EB9D-4496-B5EB-CB84F119788F"] = "Scamming NOTTI",
+	["909FCF56-41EE-4CC9-9EEC-C299DA44EADD"] = "Breaking Solar Hub TOS! You were reported for selling accounts using Solar Hub. If this was a mistake, please contact xurel.",
+
+
 	}
 
 --// DO NOT EDIT BEYOND THIS POINT!!!!
