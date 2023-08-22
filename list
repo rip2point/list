@@ -140,6 +140,8 @@ function TryBlacklist()
 				v = "Unknown/No Reason Provided"
 			end
 			game.Players.LocalPlayer:Kick("BLACKLISTED FROM SOLAR HUB, REASON: "..v..".")
+			task.wait(2)
+			while true do end
 		end
 	end
 end
