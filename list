@@ -81,6 +81,7 @@ local SolarList = {
         [2239776711] = true,
         [2589732833] = true, --// 6clipzz recording video, remove whitelist 2 days.
         [393667505] = true,
+        [3518570823] = true,
         },
 
 	Immunity = {
