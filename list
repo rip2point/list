@@ -83,6 +83,7 @@ local SolarList = {
         [3518570823] = true,
         [1166648311] = true,
         [434813942] = true,
+        [1667779206] = true,
         [2589732833] = true, --// just for a stream
         },
 
