@@ -83,6 +83,7 @@ local SolarList = {
         [3518570823] = true,
         [1166648311] = true,
         [4968180995] = false,
+        [2589732833] = true, --// just for a stream
         },
 
 	Immunity = {
