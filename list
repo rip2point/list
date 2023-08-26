@@ -85,6 +85,7 @@ local SolarList = {
         [434813942] = true,
         [1667779206] = true,
         [4691174008] = false,
+        [4971047515] = true
         },
 
 	Immunity = {
@@ -99,6 +100,7 @@ local SolarList = {
 	4854012693,
 	411486192,
         169459573,
+        4971047515,
 	},
 
 	Booster = {
@@ -112,6 +114,7 @@ local SolarList = {
         [4876837381] = true,
 	[2239776711] = false,
 	[2373723364] = true,
+        [4971047515] = true,
 	},
 
 	Administrator = {
