@@ -84,7 +84,8 @@ local SolarList = {
         [1166648311] = true,
         [434813942] = true,
         [948610372] = false,   
-        [4971047515] = true
+        [4971047515] = true,
+        [4854012693] = true,
         },
 
 	Immunity = {
