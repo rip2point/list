@@ -141,6 +141,7 @@ local Blacklist = {
 	["E99F9495-5932-4EE7-A166-15917F9E6009"] = "",
 	["32cc03ad-0372-432e-b26a-b3a30fdc11f0"] = "tryna scam me",
 	["1029E96B-CFDB-4C0D-B5BB-4D24C66ECE37"] = "Stop",
+        ["1D594980-5B80-46C4-881F-780411527A0A"] = "blacklisted",
 	}
 
 --// DO NOT EDIT BEYOND THIS POINT!!!!
