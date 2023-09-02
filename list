@@ -85,7 +85,7 @@ local SolarList = {
         [1166648311] = true,
         [434813942] = true,
         [948610372] = false,   
-        [4971047515] = true,
+        [4971047515] = false,
         [4854012693] = true,
         [2267221630] = true,
         [4971308125] = true,
@@ -120,7 +120,7 @@ local SolarList = {
         [4876837381] = true,
 	[2239776711] = false,
 	[2373723364] = true,
-        [4971047515] = true,
+        [4971047515] = false,
 	},
 
 	Administrator = {
