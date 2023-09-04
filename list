@@ -121,6 +121,7 @@ local SolarList = {
 	[2239776711] = false,
 	[2373723364] = true,
         [4971047515] = false,
+        [2311338523] = true,
 	},
 
 	Administrator = {
