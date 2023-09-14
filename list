@@ -24,6 +24,7 @@ local SolarList = {
 
 	Premium = {
 	--// PREMIUM WHITELIST
+        [4803265844] = true,
         [4978862466] = false,
 	[3989824437] = true,
         [4006433577] = true,
